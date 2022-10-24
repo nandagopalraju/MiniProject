@@ -1,0 +1,15 @@
+N:\Projects\repos\APILayer\DataLayer\bin\Debug\net6.0\DataLayer.deps.json
+N:\Projects\repos\APILayer\DataLayer\bin\Debug\net6.0\DataLayer.dll
+N:\Projects\repos\APILayer\DataLayer\bin\Debug\net6.0\DataLayer.pdb
+N:\Projects\repos\APILayer\DataLayer\bin\Debug\net6.0\ModelLayer.dll
+N:\Projects\repos\APILayer\DataLayer\bin\Debug\net6.0\ModelLayer.pdb
+N:\Projects\repos\APILayer\DataLayer\obj\Debug\net6.0\DataLayer.csproj.AssemblyReference.cache
+N:\Projects\repos\APILayer\DataLayer\obj\Debug\net6.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+N:\Projects\repos\APILayer\DataLayer\obj\Debug\net6.0\DataLayer.AssemblyInfoInputs.cache
+N:\Projects\repos\APILayer\DataLayer\obj\Debug\net6.0\DataLayer.AssemblyInfo.cs
+N:\Projects\repos\APILayer\DataLayer\obj\Debug\net6.0\DataLayer.csproj.CoreCompileInputs.cache
+N:\Projects\repos\APILayer\DataLayer\obj\Debug\net6.0\DataLayer.csproj.CopyComplete
+N:\Projects\repos\APILayer\DataLayer\obj\Debug\net6.0\DataLayer.dll
+N:\Projects\repos\APILayer\DataLayer\obj\Debug\net6.0\refint\DataLayer.dll
+N:\Projects\repos\APILayer\DataLayer\obj\Debug\net6.0\DataLayer.pdb
+N:\Projects\repos\APILayer\DataLayer\obj\Debug\net6.0\ref\DataLayer.dll

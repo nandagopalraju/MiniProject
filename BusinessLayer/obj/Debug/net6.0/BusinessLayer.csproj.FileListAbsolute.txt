@@ -1,0 +1,17 @@
+N:\Projects\repos\APILayer\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+N:\Projects\repos\APILayer\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+N:\Projects\repos\APILayer\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+N:\Projects\repos\APILayer\BusinessLayer\bin\Debug\net6.0\DataLayer.dll
+N:\Projects\repos\APILayer\BusinessLayer\bin\Debug\net6.0\ModelLayer.dll
+N:\Projects\repos\APILayer\BusinessLayer\bin\Debug\net6.0\DataLayer.pdb
+N:\Projects\repos\APILayer\BusinessLayer\bin\Debug\net6.0\ModelLayer.pdb
+N:\Projects\repos\APILayer\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+N:\Projects\repos\APILayer\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+N:\Projects\repos\APILayer\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+N:\Projects\repos\APILayer\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+N:\Projects\repos\APILayer\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+N:\Projects\repos\APILayer\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CopyComplete
+N:\Projects\repos\APILayer\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+N:\Projects\repos\APILayer\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+N:\Projects\repos\APILayer\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+N:\Projects\repos\APILayer\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
